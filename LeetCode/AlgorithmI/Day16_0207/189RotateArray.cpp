@@ -1,4 +1,5 @@
 //189. Rotate Array
+/*It has several ways to solve*/
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
